@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B305B40C-3650-49EC-B4AA-D84D65916C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amatech.lab.notification.core", "src\amatech.lab.notification.core\amatech.lab.notification.core.csproj", "{EB825EB5-7804-4432-AA0B-D0B9E0E0B58E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{1830B069-BD49-4EB2-865E-D0E9D3FD2BB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unit", "unit", "{14273AF3-EBDC-4980-A947-8CCC77FFF96D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amatech.lab.notification.core.unit.test", "test\unit\amatech.lab.notification.core.unit.test\amatech.lab.notification.core.unit.test.csproj", "{E25809D7-9D56-477A-BEBC-9DDD82958788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amatech.lab.notification.composition.root", "src\amatech.lab.notification.composition.root\amatech.lab.notification.composition.root.csproj", "{2A774ABE-EADB-461C-B06C-A9B1E6B34127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB825EB5-7804-4432-AA0B-D0B9E0E0B58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB825EB5-7804-4432-AA0B-D0B9E0E0B58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB825EB5-7804-4432-AA0B-D0B9E0E0B58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB825EB5-7804-4432-AA0B-D0B9E0E0B58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E25809D7-9D56-477A-BEBC-9DDD82958788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25809D7-9D56-477A-BEBC-9DDD82958788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25809D7-9D56-477A-BEBC-9DDD82958788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25809D7-9D56-477A-BEBC-9DDD82958788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A774ABE-EADB-461C-B06C-A9B1E6B34127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A774ABE-EADB-461C-B06C-A9B1E6B34127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A774ABE-EADB-461C-B06C-A9B1E6B34127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A774ABE-EADB-461C-B06C-A9B1E6B34127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB825EB5-7804-4432-AA0B-D0B9E0E0B58E} = {B305B40C-3650-49EC-B4AA-D84D65916C3A}
+		{14273AF3-EBDC-4980-A947-8CCC77FFF96D} = {1830B069-BD49-4EB2-865E-D0E9D3FD2BB3}
+		{E25809D7-9D56-477A-BEBC-9DDD82958788} = {14273AF3-EBDC-4980-A947-8CCC77FFF96D}
+		{2A774ABE-EADB-461C-B06C-A9B1E6B34127} = {B305B40C-3650-49EC-B4AA-D84D65916C3A}
+	EndGlobalSection
+EndGlobal

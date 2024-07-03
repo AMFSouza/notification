@@ -1,0 +1,11 @@
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\bin\Debug\net8.0\amatech.lab.notification.core.deps.json
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\bin\Debug\net8.0\amatech.lab.notification.core.dll
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\bin\Debug\net8.0\amatech.lab.notification.core.pdb
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\amatech.lab.notification.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\amatech.lab.notification.core.AssemblyInfoInputs.cache
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\amatech.lab.notification.core.AssemblyInfo.cs
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\amatech.lab.notification.core.csproj.CoreCompileInputs.cache
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\amatech.lab.notification.core.dll
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\refint\amatech.lab.notification.core.dll
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\amatech.lab.notification.core.pdb
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\ref\amatech.lab.notification.core.dll
