@@ -104,3 +104,4 @@ C:\Users\anton\dev_lab\notification\test\unit\amatech.lab.notification.core.unit
 C:\Users\anton\dev_lab\notification\test\unit\amatech.lab.notification.core.unit.test\obj\Debug\net8.0\amatech.lab.notification.core.unit.test.pdb
 C:\Users\anton\dev_lab\notification\test\unit\amatech.lab.notification.core.unit.test\obj\Debug\net8.0\amatech.lab.notification.core.unit.test.genruntimeconfig.cache
 C:\Users\anton\dev_lab\notification\test\unit\amatech.lab.notification.core.unit.test\obj\Debug\net8.0\ref\amatech.lab.notification.core.unit.test.dll
+C:\Users\anton\dev_lab\notification\test\unit\amatech.lab.notification.core.unit.test\obj\Debug\net8.0\amatech.lab.notification.core.unit.test.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("amatech.lab.notification.composition.root")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db009c101268c92b27da0fc8ec97c63b58f3f49a")]
 [assembly: System.Reflection.AssemblyProductAttribute("amatech.lab.notification.composition.root")]
 [assembly: System.Reflection.AssemblyTitleAttribute("amatech.lab.notification.composition.root")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

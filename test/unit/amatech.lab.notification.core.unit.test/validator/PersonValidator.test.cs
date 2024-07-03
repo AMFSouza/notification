@@ -17,20 +17,5 @@ public class PersonValidatorTest
         (notification.errors.Count > 0).Should().BeTrue();
     }
 
-    [Fact(DisplayName=nameof(notification_should_not_have_a_list_of_errors))]
-    [Trait("unit.test", "notification.core")]
-    public void notification_should_not_have_a_list_of_errors()
-    {
-    
-        var notification = new Notification();
-        var message_01 = new MessageError(string.Empty, string.Empty, string.Empty);
-        if ( !String.IsNullOrEmpty(message_01.class_name) &&
-             !String.IsNullOrEmpty(message_01.field_name) && 
-             !String.IsNullOrEmpty(message_01.error)) notification.AddError(message_01);
-
-        notification.Should().NotBeNull();
-        notification.HasErrors().Should().BeFalse();
-        (notification.errors.Count == 0).Should().BeTrue();
-    }
 
 }

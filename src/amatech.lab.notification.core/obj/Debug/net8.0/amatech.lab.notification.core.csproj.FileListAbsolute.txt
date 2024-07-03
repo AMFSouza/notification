@@ -9,3 +9,4 @@ C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\
 C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\refint\amatech.lab.notification.core.dll
 C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\amatech.lab.notification.core.pdb
 C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\ref\amatech.lab.notification.core.dll
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.core\obj\Debug\net8.0\amatech.lab.notification.core.sourcelink.json

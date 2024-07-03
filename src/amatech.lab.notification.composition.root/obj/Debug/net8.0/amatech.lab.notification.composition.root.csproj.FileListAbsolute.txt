@@ -16,3 +16,4 @@ C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.composition.roo
 C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.composition.root\obj\Debug\net8.0\amatech.lab.notification.composition.root.pdb
 C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.composition.root\obj\Debug\net8.0\amatech.lab.notification.composition.root.genruntimeconfig.cache
 C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.composition.root\obj\Debug\net8.0\ref\amatech.lab.notification.composition.root.dll
+C:\Users\anton\dev_lab\notification\src\amatech.lab.notification.composition.root\obj\Debug\net8.0\amatech.lab.notification.composition.root.sourcelink.json

@@ -10,6 +10,6 @@ var person = Person.Create("Antonio Marcos", 53);
                 Console.WriteLine($"class name:{nameof(person)} - field name:{error.field_name} - error:{error.error}");
             });
         } else {
-            Console.WriteLine($"{nameof(person)} foi validado com sucesso");
+            Console.WriteLine($"{nameof(person)} validated successfully");
         }
 
