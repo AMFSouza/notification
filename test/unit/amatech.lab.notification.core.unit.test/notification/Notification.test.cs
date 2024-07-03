@@ -10,21 +10,21 @@ public class NotificationTest
     {
     
         var notification = new Notification();
-        notification.AddError(new MessageError("class_error_c1", "error_message_m1", "error_01"));
-        notification.AddError(new MessageError("class_error_c1", "error_message_m2", "error_02"));
-        notification.AddError(new MessageError("class_error_c1", "error_message_m3", "error_03"));
+        notification.AddError(new MessageError("class_error_c1", "field_name_1", "error_01"));
+        notification.AddError(new MessageError("class_error_c1", "field_name_2", "error_02"));
+        notification.AddError(new MessageError("class_error_c1", "field_name_3", "error_03"));
         
         notification.Should().NotBeNull();
         notification.HasErrors().Should().BeTrue();
         (notification.errors.Count > 0).Should().BeTrue();
         notification.errors[0].class_name.Should().Be("class_error_c1");
-        notification.errors[0].field_name.Should().Be("error_message_m1");
+        notification.errors[0].field_name.Should().Be("field_name_1");
         notification.errors[0].error.Should().Be("error_01");
         notification.errors[1].class_name.Should().Be("class_error_c1");
-        notification.errors[1].field_name.Should().Be("error_message_m2");
+        notification.errors[1].field_name.Should().Be("field_name_2");
         notification.errors[1].error.Should().Be("error_02");
         notification.errors[2].class_name.Should().Be("class_error_c1");
-        notification.errors[2].field_name.Should().Be("error_message_m3");
+        notification.errors[2].field_name.Should().Be("field_name_3");
         notification.errors[2].error.Should().Be("error_03");
 
     }
